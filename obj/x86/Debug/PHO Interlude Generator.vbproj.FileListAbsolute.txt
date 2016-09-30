@@ -1,0 +1,14 @@
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\bin\Debug\PHO Interlude Generator.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\bin\Debug\PHO Interlude Generator.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\bin\Debug\PHO Interlude Generator.xml
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\PHO Interlude Generator.vbproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\PHO Interlude Generator.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\PHO Interlude Generator.xml
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\PHO Interlude Generator.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\bin\Debug\PHO Interlude Generator.exe.manifest
+C:\Users\Nick\documents\visual studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\bin\Debug\PHO Interlude Generator.application
+C:\Users\Nick\documents\visual studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\PHO Interlude Generator.exe.manifest
+C:\Users\Nick\documents\visual studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\PHO Interlude Generator.application
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\bin\Debug\PHO Interlude Generator.exe.config
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\PHO Interlude Generator\PHO Interlude Generator\obj\x86\Debug\WindowsApplication1.Form1.resources
